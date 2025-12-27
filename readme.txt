@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 To test --soft and --mixed for git reset.
 Creating a new branch is quick and simple.
 To test --no-ff.
+Git is a free software.
